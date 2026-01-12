@@ -1,1 +1,12 @@
 /* Add CSS Styling */
+
+.container .text{
+    background-color :#ff0; 
+    color:#ff0000;
+    text-align: center;
+
+}
+.container #color{
+    background-color:#00ffff;
+    text-align: center;
+}
