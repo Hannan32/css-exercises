@@ -21,13 +21,14 @@ body {
 .content {
   background: #e3f4ff;
   padding:8px;
-  margin-top:8px;
+  margin:8px auto;
 }
 
 .button-container {
   background: #e3f4ff;
-  margin: 8px auto 0 auto;
+
   text-align: center;
+  padding: 8px;
 
 
 }
@@ -35,6 +36,7 @@ body {
 button {
   background: white;
   border: 1px solid #eee;
-  display: block;
-  margin-left: 150px;
+  margin: 0 auto;
+  padding: 8px 16px;
+ 
 }
